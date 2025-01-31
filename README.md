@@ -17,8 +17,6 @@ Para executar o projeto em sua máquina, siga os passos abaixo:
 git clone https://github.com/vitorbnr/demo-dao-jdbc.git
 ```
 Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto:
-```
-
 ```bash
 cd demo-dao-jdbc
 
