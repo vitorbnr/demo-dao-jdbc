@@ -18,9 +18,10 @@ git clone https://github.com/vitorbnr/demo-dao-jdbc.git
 ```
 Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto:
 ```
-```
+
 ```bash
 cd demo-dao-jdbc
+
 ```
 
 **Configure o banco de dados**: Certifique-se de ter o MySQL instalado e rodando. Crie um banco de dados para o projeto com as seguintes informações:
