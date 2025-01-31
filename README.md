@@ -12,7 +12,7 @@ Este projeto é um exemplo de implementação do padrão DAO (Data Access Object
 
 Para executar o projeto em sua máquina, siga os passos abaixo:
 
-1. **Clone o repositório**: Abra o terminal ou o prompt de comando e execute o comando abaixo para clonar o repositório localmente:
+**Clone o repositório**: Abra o terminal ou o prompt de comando e execute o comando abaixo para clonar o repositório localmente:
    ```bash
    git clone https://github.com/vitorbnr/demo-dao-jdbc.git
 Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto:
@@ -21,13 +21,13 @@ Navegue até o diretório do projeto: Após o clone ser concluído, entre no dir
 cd demo-dao-jdbc
 ```
 
-Configure o banco de dados: Certifique-se de ter o MySQL instalado e rodando. Crie um banco de dados para o projeto com as seguintes informações:
+**Configure o banco de dados**: Certifique-se de ter o MySQL instalado e rodando. Crie um banco de dados para o projeto com as seguintes informações:
 Nome do banco de dados:coursejdbc
 Usuário:developer
 Senha:admin
 
 
-Compile o projeto: Se você estiver usando o terminal, você pode compilar os arquivos Java com o comando abaixo:
+**Compile o projeto**: Se você estiver usando o terminal, você pode compilar os arquivos Java com o comando abaixo:
 
 ```bash
 javac src/application/Program.java
@@ -38,7 +38,7 @@ E também:
 javac src/application/Program2.java
 ```
 
-Execute o projeto no terminal: Após a compilação, execute o comando:
+**Execute o projeto no terminal**: Após a compilação, execute o comando:
 
 ```bash
 java -cp .:mysql-connector-java-8.0.23.jar application.Program
@@ -50,18 +50,18 @@ E também:
 java -cp .:mysql-connector-java-8.0.23.jar application.Program2
 ```
 
-Execute o projeto na IDE: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java ou Program2.java dentro do pacote application.
+**Execute o projeto na IDE**: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java ou Program2.java dentro do pacote application.
 
 ## Instruções de Uso 📋
 Operações CRUD:
 
-Create: Adiciona novos registros ao banco de dados.
+**Create**: Adiciona novos registros ao banco de dados.
 
-Read: Consulta registros existentes no banco de dados.
+**Read**: Consulta registros existentes no banco de dados.
 
-Update: Atualiza registros existentes no banco de dados.
+**Update**: Atualiza registros existentes no banco de dados.
 
-Delete: Remove registros do banco de dados.
+**Delete**: Remove registros do banco de dados.
 
 ## Aprendizados 📚
 Este projeto foi fundamental para fortalecer os seguintes conceitos:
