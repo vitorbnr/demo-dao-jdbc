@@ -27,30 +27,6 @@ Nome do banco de dados:coursejdbc
 Usuário:developer
 Senha:admin
 
-
-**Compile o projeto**: Se você estiver usando o terminal, você pode compilar os arquivos Java com o comando abaixo:
-
-```bash
-javac src/application/Program.java
-```
-E também: 
-
-```bash
-javac src/application/Program2.java
-```
-
-**Execute o projeto no terminal**: Após a compilação, execute o comando:
-
-```bash
-java -cp .:mysql-connector-java-8.0.23.jar application.Program
-```
-
-E também: 
-
-```bash
-java -cp .:mysql-connector-java-8.0.23.jar application.Program2
-```
-
 **Execute o projeto na IDE**: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java ou Program2.java dentro do pacote application.
 
 ## Instruções de Uso 📋
