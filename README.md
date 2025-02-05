@@ -27,7 +27,7 @@ Nome do banco de dados:coursejdbc
 Usuário:developer
 Senha:admin
 
-**Execute o projeto na IDE**: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java ou Program2.java dentro do pacote application.
+**Execute o projeto na IDE**: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java ou Program2.java dentro do pacote application e faça as operações desejadas.
 
 ## Instruções de Uso 📋
 Operações CRUD:
